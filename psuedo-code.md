@@ -50,3 +50,11 @@ choices: soft drinks, coffee, alcohol
 Where was Hawaiian pizza invented?
 answer: Canada
 choices: italty, united states, United Kingdom
+
+How long does it take to grow a pineapple?
+answer: 3 years
+choices: 3 months, 6 months, 1 year
+
+Which of the following has the most vitamin c?
+answer: Peppers
+choices: oranages, strawberries, Kale
